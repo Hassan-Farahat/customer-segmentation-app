@@ -2,7 +2,7 @@
 
 An interactive Unsupervised Machine Learning web app built with Python, Streamlit, and Scikit-Learn to categorize target markets into actionable customer personas using K-Means Clustering.
 
-🚀 **[Live Demo](https://customer-segmentation-app.streamlit.app/)**
+🚀 **[Live Demo](https://hassan-farahat-customer-segmentation-app-app-te4zlx.streamlit.app/)**
 
 ---
 
